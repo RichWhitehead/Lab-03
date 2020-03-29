@@ -1,0 +1,39 @@
+section {
+  width: 270px;
+  height: 450px;
+  float: left;
+  text-align: center;
+  margin: 25px;
+  padding: 15px;
+}
+
+h2 {
+  padding-bottom: 5px;
+  font-size: 50px;
+}
+
+p {
+  font-size: 30px;
+}
+
+img {
+  border: outset 5px;
+  width: 260px;
+  max-height: 300px;
+}
+
+h1{
+  padding: 50px;
+  font-size: 150px;
+  text-align: center;
+}
+
+footer {
+  clear: both;
+  border-top: solid 3px gray;
+  height: 150px;
+  line-height: 150px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+}

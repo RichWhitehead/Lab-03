@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: auto;
+  width: 960px;
+  font-family: 'Amatic SC', cursive;
+}
